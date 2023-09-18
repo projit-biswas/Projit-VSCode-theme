@@ -1,0 +1,21 @@
+{
+  "name": "Projit-VSCode-theme",
+  "displayName": "Projit-VSCode-theme",
+  "description": "Projit-VSCode-theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Projit-VScode-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Projit-VScode-theme-color-theme.json"
+      }
+    ]
+  }
+}
