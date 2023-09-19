@@ -4,8 +4,19 @@
   "description": "Projit-VSCode-theme",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.82.0"
+    "vscode": "^1.0.0"
   },
+  "publisher": "ProjitBiswas",
+  "author": {
+    "name": "Projit Biswas"
+  },
+  "license": "MIT",
+  "homepage": " ",
+  "keywords": [
+    "vscode Projit",
+    "projit",
+    "vscode theme"
+  ],
   "categories": [
     "Themes"
   ],
@@ -17,5 +28,8 @@
         "path": "./themes/Projit-VScode-theme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
